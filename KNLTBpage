@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+ <head>
+  <title>KNLTB</title>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+ </head>
+ <body>
+   ​  <div class="navbar">
+            <ul>
+              <li><a href="https://2q46b2.mimo.run/index.html">HOME</a></li>
+              <li class="active"><a href="#">KNLTB</a></li>
+              <li><a href="https://kxduy8.mimo.run/index.html">ATP/WTA</a></li>
+              <li><a href="https://jnpnv3.mimo.run/index.html">ATRIBUTEN</a></li>
+              <li><a href="https://zyv6j8.mimo.run/index.html">OVER MEZELF</a></li>
+              <li ><a href="https://eng8ed.mimo.run/index.html">CONTACT</a></li>
+            </ul>
+          </div>
+   <section class="main-banner-section container">
+     <div class="auto-container">
+       <div class="inner-container">
+         <div class="sec-title light col-md-6">
+           <div class="title"></div><br>
+           <h2>KNLTB
+           <span style="font-size: 2opx;"> (Nederlandse Tennisbond):</span>
+           </h2>
+           <br><br>
+           <div class="text">
+           <p> KNLTB staat voor Koninklijke Nederlandse Lawn Tennis Bond. Zij zorgen ervoor dat er in Nederland toernooien worden gehouden
+             en er competitie kan worden gespeeld. Elk jaar worden er verschillende competities georganiseerd: de nederlandse eredivisie, voorjaarscompetitie(jeugdcompetitie), najaars- en wintercompetitie.
+             De voorzitter van de KNLTB is Roger Davids. Elk jaar heeft de KNLTB ongeveer 600.000 leden. Je kan bij hun ook tennisles krijgen
+             maar daarvoor moet je wel op een bepaalt niveau spelen. </p><br>
+
+           <p> Ook bepaalt de KNLTB je speelsterkte. De speelsterktes worden bepaald op basis van de eindejaarsrating die
+              voortkomt uit het gemiddelde van de behaalde resultaten gedurende het seizoen, eventueel gecorrigeerd met een acceleratiewaarde, dempingswaarde of inactiviteitswaarde. 
+              Na deze bepaling van de speelsterktes heeft iedere speler een nieuwe speelsterkte die een jaar hetzelfde blijft. De actuele rating van de speler wijzigt in principe na iedere wedstrijd.
+             Met het stroomschema voor het enkel- en dubbelspel kan je zelf per wedstrijd bepalen wat voor partijresultaat je krijgt en of je actuele rating wijzigt.
+             </p>
+           </div>
+           <br>
+           <div class="btn-box">
+             <a href="https://www.knltb.nl/" class="theme-btn btn-style-one"> Officiël Site KNLTB </a>
+             <br> <br><br>
+             <div class="image">
+               <img src="">
+             </div>
+           </div>
+         </div>
+         </div>
+       </div>
+   </section>
+  <script src="script.js"></script>
+ </body>
+</html>
