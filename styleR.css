@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,400&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+}
+body{
+  font-family: 'Raleway', sans-serif;
+
+}
+.container{
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+#about{
+  background: url(https://images.unsplash.com/photo-1515017804404-92b19fdfe6ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about h2{
+  color: #fff;
+  font-size: 3.6rem;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 6rem;
+}
+
+#about h2 ::after{
+  content: '';
+  display: block;
+  margin: 0 auto;
+  margin-top: 1.5rem;
+  width: 50px;
+  background: #ff9e44;
+  height: 2px;
+}
+
+#about .container .about-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+}
+
+#about .container .about-content p{
+  font-size: 1.8rem;
+  color: white;
+  text-align: center;
+  line-height: 4rem;
+  width: 80%;
+  margin-top: 6rem;
+  padding-bottom: 8rem;
+}
