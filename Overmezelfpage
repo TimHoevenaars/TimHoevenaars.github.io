@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+ <head>
+  <title>OVER MIJZELF</title>
+  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+ </head>
+ <body>
+​​  <div class="main">
+            <ul>
+              <li><a href="https://2q46b2.mimo.run/index.html">HOME</a></li>
+              <li><a href="https://xaf2sq.mimo.run/index.html">KNLTB</a></li>
+              <li><a href="https://kxduy8.mimo.run/index.html">ATP/WTA</a></li>
+              <li><a href="https://jnpnv3.mimo.run/index.html">ATRIBUTEN</a></li>
+              <li class="active"><a href="#">OVER MEZELF</a></li>
+              <li><a href="https://eng8ed.mimo.run/index.html">CONTACT</a></li>
+            </ul>
+          </div>
+          <br><br>
+    <h2>Mijn carriére:</h2>
+  <p style="color:white"> Ik ben Tim Hoevenaars. Sinds mijn 7de speel ik al tennis. Ik durfde niet eens het veld op te lopen. Ik begon bij TC Maliskamp. Hier heb ik
+    veel trainers gehad. Uiteindelijk werd ik gescout door de TAB (Tennis Academy Brabant). Dit was voor mij een hele mooie 
+    en leuke stap om te maken. Hier zou ik dan 2.30 uur les krijgen op de donderdag. Deze tennisacademy was opgericht
+    door de heel bekende tennisorganisatie Simon Tennis. Uiteindelijk ... <b><BIG> HOUD UW MUIS OP DE FOTO VOOR MIJN TENNISCLUB!</BIG></b>
+  </p>
+
+    <div class="card middle">
+      <div class="front">
+        <img src="https://images.unsplash.com/photo-1546339851-35c3ad161812?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <h2> Bastion Baselaar</h2>
+          <span> Mijn Tennisvereniging</span>
+        <div class="sm">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+      </div>
+    </div>
+
+  <script src="script.js"></script>
+ </body>
+</html>
