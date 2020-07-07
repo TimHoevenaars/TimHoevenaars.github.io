@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+ <head>
+   <meta charset="UTF-8">
+  <title>Benodigdheden Tennis</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+
+<section id="about">
+  <div class="container">
+    <h2>Atributen:</h2>
+  <div class="about-content">
+    <div class="about-photo">
+      <img src="https://spng.pinpng.com/pngs/s/64-648559_tennis-racket-equipment-comments-purple-wilson-tennis-racket.png">
+    </div>
+    <p> 
+      Voor tennis heb je een racket, ballen, tas, veld etc. nodig. Dit kan je allemaal kopen bij de sportwinkels. Een heel bekende
+      is tennisdirect. Wanneer u op zoek bent naar een racket, vraag dan welke bij uw spel past want elk racket is anders.
+    </p>
+  </div>
+  </div>
+</section>
+  <script src="script.js"></script>
+ </body>
+</html>
