@@ -4,6 +4,10 @@ body{
   text-align: center;
   background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   font-family: sans-serif;
+  height: 100vh;
+  width: 100%;
+  background-size:cover;
+  background-position: center;
 }
 
 .contact-title{
