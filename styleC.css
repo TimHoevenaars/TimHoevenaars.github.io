@@ -1,90 +1,96 @@
-*{
+body{
   margin: 0;
   padding: 0;
-  font-family: "montserrat", sans-serif;
-}
-
-.contact-section{
-  background: url(https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center;
-background-size: cover;
-padding: 110px 0;
-} 
-.contact-section h1{
   text-align: center;
-  color: rgb(255, 255, 255);
-}
-.border{
-  width: 100px;
-  height: 10px;
-  background: #34495e;
-  margin: 40px auto;
+  background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  font-family: sans-serif;
 }
 
-.contact-form{
-max-width: 600px;
-margin: auto;
-padding: 0 10px;
-overflow: hidden;
+.contact-title{
+  margin-top: 60px;
+  color: rgb(247, 242, 242);
+  text-transform: uppercase;
+  transition: all 2s ease-in-out;
 }
 
-.contact-form-text{
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
-  margin: 15px 0;
-  border: 0;
-  background: rgb(255, 255, 255);
-  padding: 20px 40px;
+.contact-title h1{
+  font-size: 32px;
+  line-height: 10px;
+}
+.contact-title h2{
+  font-size: 16px;
+}
+
+form{
+  margin-top: 15px;
+  transition: all 2s ease-in-out;
+}
+
+.form-control{
+  width: 600px;
+  background: transparent;
+  border: none;
   outline: none;
-  color: rgb(3, 3, 3);
-  transition: 0.5s;
+  border-bottom: 1px solid rgb(245, 243, 243);
+  color: rgb(247, 241, 241);
+  font-size: 18px;
+  margin-bottom: 16px;
 }
 
-.contact-form-text:focus{
-  box-shadow: 0 0 10px 4px #34495e;
-}
-textarea.contact-form-text{ 
-  resize: none;
-  height: 120px;
+input{
+  height: 45px;
 }
 
-.contact-form-btn{
-  float: right;
-  border: 0;
-  background: #34495e;
+form .submit{
+  background: #ff5722;
+  border-color: transparent;
   color: #fff;
-  padding: 12px 50px;
-  border-radius: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+form .submit:hover{
+  background-color: #f44336;
   cursor: pointer;
-  transition: 0.5s;
 }
 
-.contact-form-btn:hover{
-  background: #2980b9;
+.navbar{
+  width: 100%;
+  height: 15vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 
-ul{ 
+nav{
+  flex: 1;
+  padding-left: 60px;
   float: right;
   list-style-type: none;
 margin-top: 25px;
 }
 
-ul li{
+nav ul li{
   display: inline-block;
+  list-style: none;
+  margin: 0px 20px;
 }
 
-ul li a{
+nav ul li a{
   text-decoration: none;
-  color: #fff;
+  color: rgb(247, 242, 242);
   padding: 5px 20px;
   border: 1px solid transparent;
   transition: 0.5s ease;
 }
 
-ul li a:hover{
+nav ul li a:hover{
   background-color: #fff;
-  color: #000;
-}
-ul li.active a{
+  color: #000;}
+
+nav ul li.active a{
     background-color: #fff;
-  color: #000;
+  color: #000;}
