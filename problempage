@@ -24,18 +24,13 @@
                 <div class="main">
                     <h1>Our Problems...</h1>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                        Our project was completed with relative ease, but we did run into two minor issues that slowed us down. 
+                        The first problem is that our Servo Driver got damaged. 
+                        We had to order a new one; this robbed us of time and money. 
+                        The second problem is that the 3D-printer that belonged to one of our group members became damaged, 
+                        so we had to print our parts with the 3D-printer belonging to our school. At the end of the day our project
+                         went smoother than expected, even though we ran into a few minor obstacles.
+                    
                     </p>
                 </div>
             </div>
