@@ -24,18 +24,21 @@
                 <div class="main">
                     <h1>Our Method...</h1>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                         At first we started brainstorming about what we wanted to make.
+                         After a short while we decided on the idea of making a self playing guitar. 
+                         Eventually we found out that it would be easier if we used a ukulele instead. 
+                         So we changed our original plan, we also decided to put all the information about or project on a website. 
+                         Afterwards we did some research on which parts we would need for our project so that we could bring our 
+                         self playing ukulele to life. To do this we did a lot of online researching. After we had finished researching
+                          our necessary supplies we asked around to find out what we had to buy ourselves and what our school already
+                           had laying around. We had to order the servo motors, batteries and wires ourselves.  Luckily for our bank 
+                           accounts, the school decided to cover these expenses for us. We decided to let our supplies be delivered to
+                            the part of the group that was in charge of our hardware, so that they could get to work as fast as possible. 
+                            During this time our software divisions started practicing and getting familiar with the Microbit environment. 
+                            After two weeks of learning and mastering Microbit the software division got to work on writing the code for
+                             our project. After some time the hardware and software were put together to test if our ukulele worked. 
+                             It worked straight off the bat. Afterwards Laura and Tiemon started working on writing the text for our website. 
+                             When they were finished Jordy worked on translating all the text to English, as was requested by our teacher. At the same time Tim was finishing up the website.
                     </p>
                 </div>
             </div>
