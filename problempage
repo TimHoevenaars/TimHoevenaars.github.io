@@ -12,7 +12,7 @@
                       <li><a href="https://q0pl2e.mimo.run/index.htm">About us</a></li>
                       <li ><a href="https://hb4bc2.mimo.run/index.html">Our plan</a></li>
                       <li ><a href="https://dxwv80.mimo.run/index.html">Method</a></li>
-                      <li class="active"><a href="#">Problems</a></li>
+                      <li class="active"><a href="#">Obstacles</a></li>
                       <li><a href="https://mrtyc0.mimo.run/index.html">Log</a></li>
                       <li><a href="https://pjhsdh.mimo.run/index.html">Reflection</a></li>
                       <li><a href="https://nwcds6.mimo.run/index.html">Contact</a></li>
@@ -22,7 +22,7 @@
 
             <div class="header">
                 <div class="main">
-                    <h1>Our Problems...</h1>
+                    <h1>Our Obstacles...</h1>
                     <p>
                         Our project was completed with relative ease, but we did run into two minor issues that slowed us down. 
                         The first problem is that our Servo Driver got damaged. 
