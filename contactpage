@@ -28,7 +28,7 @@
           <form id="contact-form" method="post" action="">
             <input name="name" type="text" class="form-control" placeholder="Your Name" required>
             <br>
-            <input name="email" type="email" class="form-control" placeholder="Your Email" required><a href="mailto: 6410@pierson.nl">
+            <input name="email" type="email" class="form-control" placeholder="Your Email" required><a href="mailto: 6402@pierson.nl">
             <br>
                 <textarea name="message" class="form-control" placeholder="Message" rows="4" required></textarea><br>
                 
