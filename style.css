@@ -1,83 +1,82 @@
-*{ 
+*{
   margin: 0;
   padding: 0;
-  font-family: Century Gothic;
-  
 }
-
-header{
-  background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://cdn.pixabay.com/photo/2018/01/07/18/44/sport-3068038__340.jpg);
+.container{
   height: 100vh;
-  background-size: cover;
+  width: 100%;
+  background-image: url(https://images.unsplash.com/photo-1605020420620-20c943cc4669?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fGd1aXRhcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
   background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+  position: relative;
+}
+.navbar{
+  width: 100%;
+  height: 15vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 
-ul{ 
+nav{
+  flex: 1;
+  padding-left: 60px;
   float: right;
   list-style-type: none;
 margin-top: 25px;
 }
 
-ul li{
+nav ul li{
   display: inline-block;
+  list-style: none;
+  margin: 0px 20px;
 }
 
-ul li a{
+nav ul li a{
   text-decoration: none;
-  color: #fff;
+  color: rgb(247, 242, 242);
   padding: 5px 20px;
   border: 1px solid transparent;
   transition: 0.5s ease;
 }
 
-ul li a:hover{
+nav ul li a:hover{
   background-color: #fff;
-  color: #000;
-}
-ul li.active a{
+  color: #000;}
+
+nav ul li.active a{
     background-color: #fff;
-  color: #000;
-}
-.logo p{
-  float: left;
-  width: 25px;
-  height: 200px;
+  color: #000;}
+
+.content h1{
+  font-size: 60px;
+  font-weight: 100;
+  margin-top: 24px;
+  margin-bottom: 15px;
+  color: rgba(204, 211, 204, 0.867);
 }
 
-.main{
-  max-width: 1200px;
-  margin: auto;
+.content p{
+  font-size: 20px;
+  color: #fafcfb;
 }
 
-.title{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
+.content{
+  margin-left: 10%;
+  margin-top: 10%;
 }
 
-.title h1{
-  color: #fff;
-  font-size: 80px;
-  
-}
-
-.button{
-    position: absolute;
-  top: 63%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
-.btn{
-  border: 1px solid #fff;
-  padding: 15px 30px;
-  color: #fff;
+.content .btn{
+  display: inline-block;
+  background: linear-gradient(45deg, #ec9955d2, #d86b1170);
+  border-radius: 8px;
+  padding: 10px 30px;
+  box-sizing: border-box;
   text-decoration: none;
-  transition: 0.5s ease;
-}
+  color: #fff;
+  box-shadow: 3px 8px 22px rgba(94, 28, 68, 0.15);
 
-.btn:hover{
-    background-color: #fff;
-  color: #000;
 }
