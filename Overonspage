@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+ <head>
+  <title>Our team pagina</title>
+  <link rel="stylesheet" href="styleA.css">
+ </head>
+ <body>
+​      <div class="navbar">
+              <nav>
+                  <ul>
+                      <li><a href="https://1qvtyf.mimo.run/index.html">Home</a></li>
+                      <li class="active"><a href="#">About us</a></li>
+                      <li><a href="https://hb4bc2.mimo.run/index.html">Our plan</a></li>
+                      <li><a href="https://dxwv80.mimo.run/index.html">Method</a></li>
+                      <li><a href="https://x24qil.mimo.run/index.html">Problems</a></li>
+                      <li><a href="https://mrtyc0.mimo.run/index.html">Log</a></li>
+                      <li><a href="https://pjhsdh.mimo.run/index.html">Reflection</a></li>
+                      <li><a href="https://nwcds6.mimo.run/index.html">Contact</a></li>
+                  </ul>
+              </nav>
+            </div>
+      <div class="wrapper">
+            <h1>Our team:</h1>
+            <div class="team">
+                  <div class="team_member">
+                    <h3>Tim Hoevenaars</h3>
+                      <p class="role">Website Developer</p>
+                      <p> Ik ben Tim, 16 jaar oud en ben de website maker van dit project. Ik zorg ervoor dat de hele website goed in elkaar zit en dat alle informatie erop komt. Zelf ga ik ook informatica studeren, dus is zo'n project naar mijn idee hartstikke leuk.</p>
+                  </div>
+                  <div class="team_member">
+                      <h3>Jordy Lijs</h3>
+                      <p class="role">Project Manager</p>
+                      <p>Ik ben Jordy Lijs, ik ben zeventien jaar oud en ik ben de zogenaamde ‘projectleider’ van deze opdracht. De reden dat ik deze rol heb is grotendeels omdat het me wel leuk leek, vervolgens hadden we erover gestemd en toen was ik verkozen tot projectleider. Ik ben zelf gemotiveerd om een goed project te maken en als het nodig is ben ik ook bereid om met van alles te helpen.</p>
+                  </div>
+                    <div class="team_member">
+                        <h3>August van Rossum</h3>
+                      <p class="role">Hardware Developer</p>
+                      <p>Hey, mijn naam is August van Rossum. Op het moment ben ik 16 jaar oud. In het project heb ik de rol om samen met Tuyl Huiskamp de hardware van onze zelfspelende ukelele te maken. </p>
+                    </div>
+                     <div class="team_member">
+                    <h3>Laura Tielen</h3>
+                      <p class="role">Manager</p>
+                      <p>Ik ben Laura Tielen en ben 16 jaar oud. Mijn rol in het project is vooral het logboek bijhouden en kijken of iedereen nog op schema loopt. Ook schrijf ik een paar stukjes over hoe het project is gelopen voor op de website.</p>
+                  </div>
+                     <div class="team_member">
+                    <h3>Corné Peffer</h3>
+                      <p class="role">Software Developer</p>
+                      <p>Ik ben Corné, 17 jaar oud en in dit project zorg ik voor de communicatie en ik help mee met het ontwikkelen van de software. Aangezien ik vanuit huis moet werken help ik vooral mee aan het ontwikkelen van de software en niet zo zeer aan het schrijven ervan. De communicatie via de mail heb ik ook op me genomen. Dit gebeurt wel allemaal in overleg dus uiteindelijk werken we met zijn allen samen.</p>
+                  </div>
+                   <div class="team_member">
+                      <h3>Tiemon Steeghs</h3>
+                      <p class="role">Software Developer</p>
+                      <p>Mijn naam is Tiemon Steeghs en ik ben 16 jaar oud. Ik ben voor ons eindproject ingedeeld bij de software groep omdat dit de groep is waarbij ik het beste pas als ik kijk naar mijn kwaliteiten. Ik doe mijn best om zo goed mogelijk te helpen met de software en het coderen ervan. </p>
+                  </div>
+                   <div class="team_member">
+                      <h3>Tuyl Huiskamp</h3>
+                      <p class="role">Hardware Developer</p>
+                      <p>Ik ben Tuyl Huiskamp en ik ben 17 jaar. Mijn rol in het project is senior supervisor en manager van onze hardware afdeling. Ik ga over de volledige hardware divisie. Deze taak heb ik op mij genomen omdat ik het meeste ervaring heb met 3D design, 3D printen en elektronica hardware. </p>
+                  </div>
+                   <div class="team_member">
+                      <h3>Mila van de Geer</h3>
+                      <p class="role">Software Developer</p>
+                      <p>Hallo! Ik ben Mila, ik ben nu 16 jaar. Mijn rol in dit project is het coderen van de software. Hierin ben ik ook de leider. Ik heb de meeste ervaring met programmeren van ons groepje.</p>
+                  </div>
+            </div>
+      </div>
+
+  <script src="script.js"></script>
+ </body>
+</html>
