@@ -1,34 +1,39 @@
 <!doctype html>
 <html>
  <head>
-    <meta charset="utf-8">
-  <title></title>
-  <link rel="stylesheet" href="styleC.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact pagina</title>
+  <link rel="stylesheet" href="style.css">
  </head>
-
  <body>
-​  <div class="main">
-            <ul>
-              <li><a href="https://2q46b2.mimo.run/index.html">HOME</a></li>
-              <li><a href="https://xaf2sq.mimo.run/index.html">KNLTB</a></li>
-              <li><a href="https://kxduy8.mimo.run/index.html">ATP/WTA</a></li>
-              <li><a href="https://jnpnv3.mimo.run/index.html">ATRIBUTEN</a></li>
-              <li><a href="https://zyv6j8.mimo.run/index.html">OVER MEZELF</a></li>
-              <li class="active"><a href="active">CONTACT</a></li>
-            </ul>
-          </div>
-<div class="contact-section">
-  <h1> Contact Us</h1>
-<div class="border"></div>
-  <form class="contact-form" action="index.html" method="post">
-    <input type="text" class="contact-form-text" placeholder="Your name">
-    <input type="text" class="contact-form-text" placeholder="Your email">
-    <input type="text" class="contact-form-text" placeholder="Your phone">
-    <textarea class="contact-form-text" placeholder="Your message"></textarea>
-    <input type="submit" class="contact-form-btn" value="Send">
-  </form>
-</div>
+   <div class="navbar">
+              <nav>
+                  <ul>
+                      <li><a href="https://1qvtyf.mimo.run/index.html">Home</a></li>
+                      <li><a href="https://q0pl2e.mimo.run/index.html">About us</a></li>
+                      <li><a href="https://hb4bc2.mimo.run/index.html">Our plan</a></li>
+                      <li><a href="https://dxwv80.mimo.run/index.html">Method</a></li>
+                      <li><a href="https://x24qil.mimo.run/index.html">Problems</a></li>
+                      <li><a href="https://mrtyc0.mimo.run/index.html">Log</a></li>
+                      <li><a href="https://pjhsdh.mimo.run/index.html">Reflection</a></li>
+                      <li class="active"><a href="#">Contact</a></li>
+                  </ul>
+              </nav>
+            </div>
+​    <div class="contact-title">
+           <h1>Say Hello</h1>
+           <h2>We are always ready to serve you!</h2>
+    </div>
+    
+        <div class="contact-form">
+          <form id="contact-form" method="post" action="">
+            <input name="name" type="text" class="form-control" placeholder="Your Name" required>
+            <br>
+            <input name="email" type="email" class="form-control" placeholder="Your Email" required><a href="mailto: 6410@pierson.nl">
+            <br>
+                <textarea name="message" class="form-control" placeholder="Message" rows="4" required></textarea><br>
+                
+                <input type="submit" class="form-control submit" value="SEND MESSAGE">
+          </form>
   <script src="script.js"></script>
  </body>
 </html>
