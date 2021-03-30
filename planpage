@@ -24,18 +24,12 @@
                 <div class="main">
                     <h1>Our Plan...</h1>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                        Our plan started off as a grand idea, we were going to make an instrument that played itself. After a few brainstorms sessions we decided to 
+                        make a guitar that played itself. We were planning to use a 3D-printer to make most of the plastic components ourselves. The instrument 
+                        itself would be coded on a Microbit. When we were making our 3D-design we found out that a guitar would be far too complicated to finish in time. 
+                        So we decided to use a ukulele instead. We made a new 3D-design and figured out how we were planning to bring our idea to life, afterwards we assigned 
+                        tasks to each group member and we started working.
+
                     </p>
                 </div>
             </div>
