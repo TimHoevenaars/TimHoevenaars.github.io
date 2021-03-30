@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: century Gothic;
+}
+
+.header{
+  height: 100vh;
+  width: 100%;
+  background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size:cover;
+  background-position: center;
+}
+
+.main{
+  width: 50%;
+  background: rgba(71, 71, 71, 0.7);
+  color: #ffffff;
+  text-align: center;
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.navbar{
+  width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+nav{
+  flex: 1;
+  padding-left: 60px;
+  float: right;
+  list-style-type: none;
+margin-top: 25px;
+}
+
+nav ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 0px 20px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: rgb(49, 48, 48);
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.5s ease;
+}
+
+nav ul li a:hover{
+  background-color: rgb(109, 108, 108);
+  color: rgb(240, 238, 238);}
+
+nav ul li.active a{
+    background-color: rgb(109, 108, 108);
+  color: rgb(240, 239, 239);}
