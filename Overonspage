@@ -19,51 +19,52 @@
                   </ul>
               </nav>
             </div>
-      <div class="wrapper">
+       <div class="wrapper">
             <h1>Our team:</h1>
             <div class="team">
                   <div class="team_member">
                     <h3>Tim Hoevenaars</h3>
                       <p class="role">Website Developer</p>
-                      <p> Ik ben Tim, 16 jaar oud en ben de website maker van dit project. Ik zorg ervoor dat de hele website goed in elkaar zit en dat alle informatie erop komt. Zelf ga ik ook informatica studeren, dus is zo'n project naar mijn idee hartstikke leuk.</p>
+                      <p> My name is Tim, I’m sixteen years old and I am the webdesigner of our project. My job is to make sure that our website works and that all the included information checks out. I am planning on studying computer science, so a project like this is right up my alley. I have spent a lot of time making this website because I like to learn new things about web design. </p>
                   </div>
                   <div class="team_member">
                       <h3>Jordy Lijs</h3>
                       <p class="role">Project Manager</p>
-                      <p>Ik ben Jordy Lijs, ik ben zeventien jaar oud en ik ben de zogenaamde ‘projectleider’ van deze opdracht. De reden dat ik deze rol heb is grotendeels omdat het me wel leuk leek, vervolgens hadden we erover gestemd en toen was ik verkozen tot projectleider. Ik ben zelf gemotiveerd om een goed project te maken en als het nodig is ben ik ook bereid om met van alles te helpen.</p>
+                      <p>My name is Jordy Lijs, I am currently seventeen years old and I am the so called ‘project manager’ of this assignment. The reason why I have this role is because it seemed fun; we proceeded to vote and I was chosen to be our project manager. I’m motivated to see this project through to the end and I’m happy to help whenever and wherever I might be needed.</p>
                   </div>
                     <div class="team_member">
                         <h3>August van Rossum</h3>
                       <p class="role">Hardware Developer</p>
-                      <p>Hey, mijn naam is August van Rossum. Op het moment ben ik 16 jaar oud. In het project heb ik de rol om samen met Tuyl Huiskamp de hardware van onze zelfspelende ukelele te maken. </p>
+                      <p>Heyyyyyyyyyyy, my name is August van Rossum. I am sixteen years old. In this project I have the role to make the hardware of our self playing ukulele together with Tuyl Huiskamp. ;) </p>
                     </div>
                      <div class="team_member">
                     <h3>Laura Tielen</h3>
                       <p class="role">Manager</p>
-                      <p>Ik ben Laura Tielen en ben 16 jaar oud. Mijn rol in het project is vooral het logboek bijhouden en kijken of iedereen nog op schema loopt. Ook schrijf ik een paar stukjes over hoe het project is gelopen voor op de website.</p>
+                      <p>My name is Laura Tielen, I am sixteen years old. My role in this project consists of keeping track of schedule and making sure that everyone is doing their jobs. I also write the text about our project for our website.</p>
                   </div>
                      <div class="team_member">
                     <h3>Corné Peffer</h3>
                       <p class="role">Software Developer</p>
-                      <p>Ik ben Corné, 17 jaar oud en in dit project zorg ik voor de communicatie en ik help mee met het ontwikkelen van de software. Aangezien ik vanuit huis moet werken help ik vooral mee aan het ontwikkelen van de software en niet zo zeer aan het schrijven ervan. De communicatie via de mail heb ik ook op me genomen. Dit gebeurt wel allemaal in overleg dus uiteindelijk werken we met zijn allen samen.</p>
+                      <p>My name is Corné, I am seventeen years old and my role in this project is to manage communications and to assist in developing our software. Because I have to work from home I mostly help with developing the software and not as much as writing the software. I took on the task of managing the email communication. All of the communication does get discussed beforehand, so eventually we all work together.</p>
                   </div>
                    <div class="team_member">
                       <h3>Tiemon Steeghs</h3>
                       <p class="role">Software Developer</p>
-                      <p>Mijn naam is Tiemon Steeghs en ik ben 16 jaar oud. Ik ben voor ons eindproject ingedeeld bij de software groep omdat dit de groep is waarbij ik het beste pas als ik kijk naar mijn kwaliteiten. Ik doe mijn best om zo goed mogelijk te helpen met de software en het coderen ervan. </p>
+                      <p>My name is Tiemon Steeghs and I am sixteen years old. For our final project I was assigned to our software group because my skills fit best into this group. I do my best to help as much as I can with coding our software.</p>
                   </div>
                    <div class="team_member">
                       <h3>Tuyl Huiskamp</h3>
                       <p class="role">Hardware Developer</p>
-                      <p>Ik ben Tuyl Huiskamp en ik ben 17 jaar. Mijn rol in het project is senior supervisor en manager van onze hardware afdeling. Ik ga over de volledige hardware divisie. Deze taak heb ik op mij genomen omdat ik het meeste ervaring heb met 3D design, 3D printen en elektronica hardware. </p>
+                      <p>My name is Tuyl Huiskamp and I’m seventeen years old. I am the senior supervisor and the manager of our hardware division. I took this task upon myself because I have the most experience with 3D designs, 3D printing and electronics.</p>
                   </div>
                    <div class="team_member">
                       <h3>Mila van de Geer</h3>
                       <p class="role">Software Developer</p>
-                      <p>Hallo! Ik ben Mila, ik ben nu 16 jaar. Mijn rol in dit project is het coderen van de software. Hierin ben ik ook de leider. Ik heb de meeste ervaring met programmeren van ons groepje.</p>
+                      <p>Hi! My name is Mila, I currently am sixteen years old. My role in this project is to code our software. I also am the head of the software division. I have the most experience of our group with coding.</p>
                   </div>
             </div>
       </div>
+
 
   <script src="script.js"></script>
  </body>
