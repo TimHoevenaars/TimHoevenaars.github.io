@@ -2,7 +2,7 @@
 <html>
  <head>
   <title></title>
-  <link rel="stylesheet" href="styleZ.css">
+  <link rel="stylesheet" href="style.css">
  </head>
  <body>
 ​         <div class="navbar">
@@ -24,21 +24,119 @@
                 <div class="main">
                     <h1>Log...</h1>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially 
-                          unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                           and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                        <U>25-01:</U> Discuss how we are going to solve it with regard to our project plan and how we can work the best from home due to COVID-19 ➝ everyone ➝ 1 hour
+                        <br>
+                        <p>
+                        </p>
+                        <U>27-01:</U> Started with the 3D-design for changing rotating ➝ Tuyl ➝ 35 minutes
+                        <br>Research into programming ➝ Mila ➝ 35 minutes
+                        <br> Working on website ➝ Tim ➝ 35 minutes
+                        <br> Had consultation with Mr. Moorlag ➝ Jordy and Laura ➝ 35 minutes
+                        <p>
+                        </p>
+                        <U>01-02: </U> Working on 3D-print design ➝ Tuyl ➝ 1 hour
+                        <br> Updated log ➝ Laura ➝ 10 minutes
+                        <p>
+                        </p>
+                        <U>02-02: </U> Continuing with 3D-print design ➝ Tuyl ➝ 1 hour
+                        <p>
+                        </p>
+                        <U>03-02:</U> Started with the project plan ➝ Laura, Jordy, Tiemon ➝ 35 minutes
+                        <br>Started with the project cost ➝ Mila, Corné, Tuyl, August ➝ 35 minutes
+                        <br>Working on the website ➝ Tim ➝ 35 minutes
+                        <p>
+                       </p>
+                       <U>04-02:</U>Finished project cost ➝ Mila and Corné ➝ 15 minutes
+                       <br> Finished project plan ➝ everyone ➝ 1 hour
+                       <br> Working on the website ➝ Tim ➝ 1 hour
+                       <p>
+                       </p>
+                       <U>08-02:</U>Consultation with Mr. Moorlag about the project costc and the project plan ➝ everyone ➝ 30 minutes
+                       <br>3D-print design ➝ Tuyl ➝ 30 minutes
+                       <br>Updated log ➝ Laura ➝ 10 minutes
+                       <p>
+                       </p>
+                       <U>09-02: </U> Continuing with 3D-print design ➝ Tuyl ➝ 30 minutes
+                       <p>
+                       </p>
+                       <U>12-02:</U>Ordered products ➝ Corné ➝ 20 minutes
+                       <p> 
+                       </p>
+                       <U>13-02:</U>Working on the website ➝ Tim ➝2 hour
+                       <p> 
+                       </p>
+                       <U>15-02:</U>3D-print design ➝ Tuyl ➝ 2 hours
+                    <p>  
                     </p>
+                    <U>16-02: </U>Practising how to program and code the ukelele ➝ Jordy ➝ 45 minutes
+                    <p>  
+                    </p>
+                    <U>19-02:</U>Working on the website ➝ Tim ➝ 1 hour
+                    <br> Updated log ➝ Laura ➝ 10 minutes
+                    <p> 
+                    </p>
+                    <U>23-02:</U>Finishing the contact page on the website and working on the reflection page ➝ Tim ➝ 2 hours
+                    <p> 
+                    </p>
+                    <U>24-02 & 01-03:</U>Working on PO database (another assignment) ➝ everyone ➝ 1 hour and 10 minutes
+                    <p> 
+                    </p>
+                    <U> 08-03 & 10-03:</U>Discussing work method from home ➝ everyone ➝ 15 minutes
+                    <p> 
+                    </p>
+                    <U>12-03:</U>Practising with coding and have a look at the TO-DO List ➝Mila, Corné, Jordy, Tiemon ➝30 minutes
+                    <p> 
+                    </p>
+                    <U>15-03:</U>Printing and assembling all the hardware to the ukelele ➝ Tuyl ➝5 hours
+                    <br> Practising how to code the ukelele ➝Jordy, Mila, Corné, Tiemon ➝ 1 hour
+                    <p>  
+                    </p>
+                    <U>16-03:</U> Software and battery testing ➝ Mila ➝ 30 minutes
+                    <br> Practising with coding ➝ Jordy, Tiemon, Mila, Corné ➝ 1 hour
+                    <p> 
+                    </p>
+                    <U> 17-03: </U> Working on website and programming/coding ➝ everyone ➝35 minutes
+                    <p>  
+                    </p>
+                    <U>22-03: </U> Writing texts for the website ➝Tiemon and Laura ➝ 35 minutes
+                    <br> Working on website ➝ Tim ➝ 35 minutes
+                    <br> Making the code for the ukelele ➝ Mila ➝ 30 minutes
+                    <p> 
+                    </p>
+                    <U> 23-03: </U> Working on the about us page on the website ➝ Tim ➝ 30 minutes
+                    <br> Making a plan for finishing the project ➝ everyone ➝15 minutes
+                    <p>  
+                    </p>
+                    <U> 26-03:</U>Designing and printing the Microbit holder. After that, we connected it to the ukelele ➝ Tuyl ➝1 hour
+                    <br> Servo's programming and coding ➝ Mila, Jordy, Corné ➝ 30 minutes
+                    <p> 
+                    </p>
+                    <U> 27-03: </U> Software programming and coding ➝ Mila and Jordy ➝1 hour
+                    <br> Finishing website without the text ➝ Tim ➝ 30 minutes
+                    <p>  
+                    </p>
+                    <U>27-03:</U> Writing texts for the website ➝ Laura ➝ 20 minutes
+                    <p>  
+                    </p>
+                    <U>28-03: </U> Writing texts ➝ Laura and Tiemon ➝ 1 hour
+                    <br> See if everything is correct on the website ➝ Tim ➝ 20 minutes
+                    <br> Put the software on the ukelele ➝ Mila, Jordy, Corné
+                    <p>  
+                    </p>
+                    <U> 29-03:</U> Editing the log and updating the project cost ➝ Corné ➝ 15 minutes
+                    <br> Assembling the last ukelele parts and making them work ➝Mila, Tuyl, Jordy, August
+                    <p>  
+                    </p>
+                    <U>30-03: </U> Website translation ➝ Tim, Jordy, Corné, August, Tiemon ➝3 hours
+                    <p> 
+                    </p>
+                    <U> 31-03:</U> Finishing the ukelele and filming the result, so we can upload it on our website ➝ Tim, Tuyl, Mila ➝ 1,5 hours
+                      <p> 
+                      </p>
+                      <U>01-04: </U> Checking and finishing the last things ➝ everyone ➝30 minutes
+                  </p>
                 </div>
             </div>
- 
+  <script src="script.js"></script>
  </body>
 </html>
