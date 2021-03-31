@@ -5,7 +5,7 @@ body{
 }
 
 .header{
-  height: 280vh;
+  height: 380vh;
   width: 100%;
   background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-size:cover;
@@ -19,7 +19,7 @@ body{
   text-align: center;
   padding: 50px;
   position: absolute;
-  top: 145%;
+  top: 185%;
   left: 50%;
   transform: translate(-50%, -50%)
 }
