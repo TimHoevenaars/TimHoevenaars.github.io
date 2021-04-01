@@ -5,6 +5,23 @@
   <link rel="stylesheet" href="styleM.css">
  </head>
  <body>
-​       
+​        <div class="header">
+      <br>
+      <br>
+       <br>
+        <br>
+        <center>
+          <div class="text">
+                <h2> Welcome. This is the results of our project. Click on the video below to see everything about the ukelele.</h2>
+          <p>
+          </p>
+          <h4> Have a look!</h4>
+          <br>
+          </div>
+​       <iframe width="760" height="415" src="https://www.youtube.com/embed/TiqeAZ0wY28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+      </iframe>
+        </center>
+   </div>  
  </body>
 </html>
